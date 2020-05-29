@@ -1,4 +1,4 @@
-#/usr/bin/python
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
 # Joomla (3.8.8) Admin Bruteforcer
 # Update: June 14 2018
