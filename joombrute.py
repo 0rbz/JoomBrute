@@ -5,6 +5,8 @@
 # Requirements: pip install robobrowser 
 # python 2.7
 
+import werkzeug
+werkzeug.cached_property = werkzeug.utils.cached_property
 from robobrowser import RoboBrowser
 import re,sys,time,argparse,warnings
 from random import randint
